@@ -8,4 +8,4 @@ Clasa Persoana este abstracta si este mostenita de autori si cititori care ii im
 Interfata ICarte prevede toate metodele aplicabile pe listele de autori si carti citite in main, iar clasa Actiuni implementeaza metodele.
 In main se pot folosi diferite interogari in functie de numarul introdus de la tastatura (meniu interactiv), interogari precum stergeri, adaugari, sortari parametrizate,
 si afisari. 
-[!!!GRESEALA: In clasa Main la optinunea 0 se afiseaza numarul de cititori ce au preferinta introdusa de la tastatura, nu numarul de cititori dupa genul cartii (cu toate ca ar fi fost bine sa introduc si optiunea aceasta)]
+[!!!GRESEALA: In clasa Main la optinunea 1 se afiseaza numarul de cititori ce au preferinta introdusa de la tastatura, nu numarul de cititori dupa genul cartii (cu toate ca ar fi fost bine sa introduc si optiunea aceasta)]
